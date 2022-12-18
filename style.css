@@ -42,6 +42,11 @@ main {
   grid-area: main;
 }
 
+aside {
+  grid-area: aside;
+  background-color: #e67a0d00;
+}
+
 
 .header {
 
